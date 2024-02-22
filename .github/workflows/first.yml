@@ -7,4 +7,6 @@ jobs:
     - name: print greeting
       run: echo "Hello World"
     - name: print bye
-      run: echo "bye";
+      run: echo "bye"
+    - name: resume 
+      run: echo "resume github action"
